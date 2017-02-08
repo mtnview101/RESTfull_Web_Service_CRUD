@@ -3,7 +3,7 @@ package core;
 import java.io.*;
 import org.apache.commons.io.FileUtils;
 
-public class UPDATE {
+public class Update {
 	
 
 		       @SuppressWarnings({ "resource" })

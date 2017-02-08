@@ -4,7 +4,7 @@ import java.io.*;
 import org.apache.commons.io.FileUtils;
 
 
-	public class DELETE {
+	public class Delete {
 
 	       @SuppressWarnings({ "resource" })
 	       public static void main(String[] args) throws IOException {

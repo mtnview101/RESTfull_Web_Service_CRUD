@@ -1,7 +1,7 @@
 package core;
 import java.io.*;
 
-	public class READ_ALL {
+	public class Read_all {
 
 	       @SuppressWarnings("resource")
 	       public static void main(String[] args) throws FileNotFoundException, IOException {

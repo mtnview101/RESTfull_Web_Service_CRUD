@@ -1,6 +1,6 @@
 package core;
 import java.io.*;
-public class CREATE {
+public class Create {
 
 	       public static void main(String[] args) throws IOException {
 	              File f = new File("hw_9.txt");

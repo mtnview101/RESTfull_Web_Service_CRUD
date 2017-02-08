@@ -1,7 +1,7 @@
 package core;
 import java.io.*;
 
-	public class READ {
+	public class Read {
 	       @SuppressWarnings("resource")
 	       public static void main(String[] args) throws FileNotFoundException, IOException {
 	              File f = new File("hw_9.txt");
